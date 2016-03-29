@@ -13,11 +13,11 @@ npm --save i feeling-twenty-two
 ```javascript
 const feelingTwentyTwo = require('feeling-twenty-two');
 
-isTwentyTwo(22); // true
+feelingTwentyTwo(22); // true
 
-isTwentyTwo(20); // false
+feelingTwentyTwo(20); // false
 
-isTwentyTwo("https://www.youtube.com/watch?v=AgFeZr5ptV8"); // true
+feelingTwentyTwo("https://www.youtube.com/watch?v=AgFeZr5ptV8"); // true
 
 ```
 
