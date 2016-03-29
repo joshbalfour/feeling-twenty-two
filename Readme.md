@@ -1,4 +1,4 @@
-# is-twenty-two
+# feeling-twenty-two
 
 An npm package to check if a thing is feeling 22.
 
