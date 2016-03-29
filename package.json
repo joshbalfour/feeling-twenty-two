@@ -1,6 +1,6 @@
 {
   "name": "feeling-twenty-two",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "npm package for seeing if something feels 22 or not",
   "main": "index.js",
   "scripts": {
