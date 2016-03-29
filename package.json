@@ -11,13 +11,16 @@
     "url": "git+https://github.com/joshbalfour/feeling-twenty-two.git"
   },
   "author": {
-    "name" : "Josh Balfour",
-    "email" : "josh@joshbalfour.co.uk",
-    "url" : "https://joshbalfour.co.uk"
+    "name": "Josh Balfour",
+    "email": "josh@joshbalfour.co.uk",
+    "url": "https://joshbalfour.co.uk"
   },
   "license": "WTFPL",
   "bugs": {
     "url": "https://github.com/joshbalfour/feeling-twenty-two/issues"
   },
-  "homepage": "https://github.com/joshbalfour/feeling-twenty-two#readme"
+  "homepage": "https://github.com/joshbalfour/feeling-twenty-two#readme",
+  "dependencies": {
+    "is-twenty-two": "^1.0.1"
+  }
 }
